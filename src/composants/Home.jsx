@@ -19,7 +19,7 @@ export default function Home() {
         </p>
         <div className="flex justify-center md:justify-start space-x-6 mb-6">
           <a
-            href="https://www.linkedin.com/in/soumboulfall" 
+            href="https://www.linkedin.com/in/soumboul-fall-032150235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" 
             target="_blank"
             rel="noopener noreferrer"
             className="text-primary border-2 border-primary rounded-full p-3 hover:bg-primary hover:text-black transition"
